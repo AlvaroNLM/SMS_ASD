@@ -4,6 +4,6 @@ Plots:
 3. un bubbleplot curzando VR con Game; 
 4. un bubbleplot cruzando VR con ASD; 
 5. un bubble plot cruzando AR con ASD; 
-6. un bubbleplot cruzando ASD con Game:
+6. un bubbleplot cruzando ASD con Game;
 7. un bubbleplot de VR+AR con ASD; y
-8. un bubble plot de VR+AR con Game.
+8. un bubbleplot de VR+AR con Game.
